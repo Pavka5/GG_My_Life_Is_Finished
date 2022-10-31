@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GG_My_Life_Is_Finished/1.0.0": {
+        "runtime": {
+          "GG_My_Life_Is_Finished.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GG_My_Life_Is_Finished/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

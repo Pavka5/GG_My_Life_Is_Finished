@@ -1,0 +1,17 @@
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\bin\Debug\net6.0-windows\GG_My_Life_Is_Finished.exe
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\bin\Debug\net6.0-windows\GG_My_Life_Is_Finished.deps.json
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\bin\Debug\net6.0-windows\GG_My_Life_Is_Finished.runtimeconfig.json
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\bin\Debug\net6.0-windows\GG_My_Life_Is_Finished.dll
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\bin\Debug\net6.0-windows\GG_My_Life_Is_Finished.pdb
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.csproj.AssemblyReference.cache
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.Form1.resources
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.csproj.GenerateResource.cache
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.AssemblyInfoInputs.cache
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.AssemblyInfo.cs
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.dll
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\refint\GG_My_Life_Is_Finished.dll
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.pdb
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\GG_My_Life_Is_Finished.genruntimeconfig.cache
+C:\Users\Pavel Mareček\source\repos\GG_My_Life_Is_Finished\obj\Debug\net6.0-windows\ref\GG_My_Life_Is_Finished.dll
